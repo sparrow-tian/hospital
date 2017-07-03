@@ -1,0 +1,219 @@
+Al-Islam Medical Centre ---> Kuala Lumpur
+Aman Hospital ---> Kuala Lumpur
+Amanjaya Specialist Hospital ---> Sungai Petani
+Apollo Medical Centre ---> Taiping
+Apollo TTDI Medical Centre ---> Kuala Lumpur
+Ara Damansara Medical Centre ---> Shah Alam
+Manipal Hospitals Klang ---> Klang
+Assunta Hospital ---> Petaling Jaya
+Bagan Specialist Centre ---> Pulau Pinang
+Beacon Hospital ---> Petaling Jaya
+Bintulu Medical Centre ---> Sarawak
+Borneo Medical Centre ---> Kuching
+Century Medical Centre ---> Johor
+Chaudhury Medic-Centre ---> Kuala Lumpur
+Chin Women and Maternity Centre ---> Kota Kinabalu
+Columbia Asia Bintulu ---> Bintulu
+Columbia Asia Bukit Rimau ---> Bukit Rimau
+Columbia Asia Cheras ---> Cheras
+Columbia Asia Miri ---> Miri
+Columbia Asia Nusajaya ---> Nusajaya
+Columbia Asia Petaling Jaya ---> Petaling Jaya
+Columbia Asia Puchong ---> Puchong
+Columbia Asia Seremban ---> Seremban
+Columbia Asia Setapak ---> Setapak
+Columbia Asia Shah Alam ---> Shah Alam
+Columbia Asia Taiping ---> Taiping
+Damai Service Hospital (HQ) ---> Kota Kinabalu
+Damai Specialist Hospital ---> Taman Melawati
+Danau Kota Hospital ---> Danau Kota
+Darul Makmur Medical Centre ---> Kuantan
+Dato' Harnam Ear, Nose and Throat Specialist Clinic Sdn. Bhd. ---> Kuala Lumpur
+DEMC Specialist Hospital ---> Shah Alam
+GHHS Healthcare ---> Seri Kembangan
+Gleneagles Kota Kinabalu ---> Kinabalu
+Gleneagles Kuala Lumpur ---> Kuala Lumpur
+Gleneagles Medical Centre, Penang ---> Penang
+Gleneagles Medini ---> Medini
+Global Doctors Hospital ---> Kuala Lumpur
+Hope Children Hospital, Farlim ---> Farlim
+Hope Children Hospital, Jln Gottlieb ---> Jelutong
+Hope Children Hospital, Sg. Ara ---> Pulau Pinang
+Hospital Bau ---> Bau
+Hospital Bersalin ---> Petaling Jaya
+Hospital Bersalin Metro Maternity ---> Jalan Pasar
+Hospital Fatimah ---> Ipoh
+Hospital Islam Az-Zahrah --->  Bandar Baru Bangi
+Hospital KCDC Sdn. Bhd. ---> Kuantan
+Hospital Lam Wah Ee ---> Jelutong
+Hospital Pakar An-Nur Hasanah ---> Bandar Baru Bangi
+Hospital Penawar ---> Pasir Gudang
+Hospital Pusrawi ---> Kuala Lumpur
+Hospital Pusrawi Sdn Bhd ---> Kuala Lumpur
+Hospital UMRA ---> hah Alam
+HSC Medical Center ---> Kuala Lumpur
+INS Specialist Centre ---> Alor Setar
+Institut Jantung Negara (IJN) ---> Kuala Lumpur
+Island Hospital --->  Pulau Pinang
+Kajang Plaza Medical Centre ---> Kajang 
+Kampung Baru Medical Centre ---> Kuala Lumpur
+KCDC Hospital Sdn. Bhd ---> Kuantan
+Kedah Medical Centre (KMC) ---> Kedah 
+Kelana Jaya Medical Centre ---> Petaling Jaya
+Kempas Medical Centre ---> johor
+Kevin Specialist Heart Centre Sdn. Bhd. ---> Ipoh
+Kim Fung Medical Centre Sdn. Bhd. ---> Sandakan
+Kinta Medical Centre ---> Ipoh
+Kluang Utama Specialist Hospital (KUSH) ---> Klang
+Kota Bharu Medical Centre ---> Kota Bharu
+KPJ Ampang Puteri ---> Ampang Puteri
+KPJ Bandar Maharani ---> Maharani
+KPJ Damansara ---> Damansara
+KPJ Ipoh ---> Ipoh
+KPJ Johor ---> Johor
+KPJ Kajang  ---> Kajang 
+KPJ Klang ---> Klang
+KPJ Penang ---> Penang
+KPJ Perdana ---> Kota Bharu
+KPJ Puteri ---> Puteri
+KPJ RAWANG ---> RAWANG
+KPJ Sabah ---> Sabah
+KPJ Selangor  ---> Shah Alam
+KPJ Sentosa  ---> Klang
+KPJ Seremban ---> Seremban
+KPJ Sibu ---> Sibu
+KPJ Tawakkal  ---> Tawakkal 
+KPJ Pasir Gudang ---> PasirGudang
+KPMC Puchong Specialist Centre ---> Puchong
+Kuantan Specialist Hospital ---> Kuantan
+Kuantan Medical Centre ---> Kuantan
+Kuantan Specialist Hospital (KSH) ---> Kuantan
+Kuching Specialist Hospital (KcSH) ---> Kuching
+Landmark Medical Centre Sdn. Bhd ---> Johor Bahru
+Larut Medical Centre ---> Taiping
+Lion Nursing Home ---> Kuching
+Loh Guan Lye Specialists Centre ---> Georgetown
+Lourdes Medical Centre ---> Kuala lumpur
+Mahkota Medical Centre ---> Kuantan
+Mawar Renal Medical Centre ---> Seremban
+Medical Specialist Centre (JB) Sdn. Bhd ---> Johor
+Metro Maternity Sdn Bhd ---> Selangor
+Metro Specialist Hospital ---> Sungai Petani
+Miri City Medical Centre ---> Miri
+Mount Miriam Cancer Hospital --->  Tanjong Bungah
+Multimedic Specialist and Maternity Centre ---> Kuching
+NCI Cancer Hospital ---> Nilai
+Normah Medical Specialist Centre ---> Kuching
+NSCMH Medical Centre ---> Seremban
+Oriental Melaka Straits Medical Centre ---> Melaka
+Paloh Medical Centre Sdn. Bhd. ---> Ipoh
+Pantai Hospital Ampang ---> Ampang
+Pantai Hospital Ayer Keroh ---> Ayer Keroh
+Pantai Hospital Batu Pahat ---> Batu Pahat
+Pantai Hospital Cheras ---> Cheras
+Pantai Hospital Ipoh ---> Ipoh
+Pantai Hospital Klang ---> Klang
+Pantai Hospital Kuala Lumpur ---> Kuala Lumpur
+Pantai Hospital Manjung ---> Manjung
+Pantai Hospital Penang ---> Penang
+Pantai Hospital Sungai Petani ---> Sungai Petani
+ParkCity Medical Centre ---> Kuala Lumpur
+Peace Medical Centre ---> Pulau Pinang
+Pearl Maternity Hospital ---> Batu Maung
+Pelangi Medical Centre ---> Johor Bahru
+Penang Adventist Hospital (PAH) ---> Pulau Pinang
+Penang Specialist Maternity Centre ---> Pulau Pinang
+Perak Community Specialist Hospital ---> Ipoh
+Prince Court Medical Centre ---> Kuala Lumpur
+PRKMUIP Specialist Hospital ---> Kuantan
+Public Specialist Centre Sdn. Bhd ---> Pulau Pinang
+Pudu Specialists' Centre ---> Kuala Lumpur
+Pusat Bersalin dan Sakit Puan Yeak ---> Sitiawan
+Pusat Pakar Kluang Utama ---> Kluang
+Pusat Pakar Ngee ---> Kedah
+Pusat Pakar Perbidanan & Sakit Puan Raja ---> Muar
+Pusat Pakar Wanita Ang Sdn. Bhd. ---> Kuala Lumpur
+Pusat Perubatan Ar. Ridzuan ---> Ipoh
+Pusat Perubatan Naluri Sdn. Bhd ---> Kuala Lumpur
+Pusat Rawatan Islam An-Nisa ---> Kota Bharu
+Puteri Klang Medical Centre ---> Klang
+Putra Medical Centre (Alor Setar) ---> Alor Setar
+Putra Medical Centre (Sungai Buloh) ---> Sungai Buloh
+Putra Specialist Hospital (Batu Pahat) ---> Batu Pahat
+Putra Specialist Hospital Melaka ---> Melaka
+QHC Medical Centre ---> Subang Jaya
+Rafflesia Medical Centre ---> Penampang
+Regency Specialist Hospital ---> Masai
+Rejang Medical Centre ---> Sibu
+Roopi Medical Centre ---> Kuala Lumpur
+Sabah Medical Centre (SMC) ---> Kota Kinabalu
+SALAM Kuala Terengganu Specialist Hospital ---> Kuala Terengganu
+SALAM Senawang Specialist Hospita ---> Senawang
+SALAM Shah Alam Specialist Hospital ---> Shah Alam
+Sambhi Clinic and nursing home Sdn. Bhd ---> Kuala Lumpur
+Sarawak Specialist Hospital & Medical Centre Sdn. Bhd. ---> Kuching
+Sentul Hospital ---> Kuala Lumpur
+Sibu Specialist Medical Centre ---> Sibu
+Sime Darby Medical Centre Subang Jaya ---> Subang Jaya
+Siow Specialist Hospital ---> Johor Bahru
+Specialist Women Hospital & Fertility Centre ---> Johor 
+Sri Kota Specialist Medical Centre ---> Klang
+sri manjung specialist centre ---> Sitiawan
+'Sri Santaville' Nursing Home ---> Pontian
+Srigim Medical Centre ---> Jelutong
+Srigim Specialist Women and Children's Hospital ---> Georgetown
+St. Joseph Maternity Home Penampang ---> Penampang
+Strand Specialist Hospital and Strand Geriatric & Rehabilitation Centre ---> Penampang
+Sunway Medical Centre ---> Petaling Jaya
+Taiping Medical Centre(TMC) ---> Taiping
+Taj Hospital ---> Kuala Lumpur
+Taman Desa Medical Centre ---> Kuala Lumpur
+Tanjung Medical Centre ---> Pulau Pinang
+Teo Maternity Home & Specialist Gynaecological Surgery ---> Tawau
+The Damai Service Hospital (Melawati) ---> Taman Melawati
+Timberland Medical Centre ---> Kuching 
+Timberland Medical Centre ---> Kuching
+Tropical Medical Centre ---> Jelutong
+Tun Hussein Onn National Eye Hospital ---> Petaling Jaya 
+Tung Shin Hospital ---> Kuala Lumpur
+UKM Specialist Centre ---> Cheras
+UM Specialist Centre ---> Kuala Lumpur
+Unikl Rcmp Medical Centre ---> Ipoh
+Verghese And Surgery ---> Tawau
+Bougainvillea Nursing Home Sdn. Bhd. ---> Johor Bahru
+Bukit Mertajam Specialist Hospital ---> Bukit Mertajam
+C. S. Koh and Maternity Home ---> Johor Bahru
+Chang & Koh Maternity & Fertility Centre Sdn. Bhd. ---> Kulim
+Cheras Geriatric Centre --->  Kuala Lumpur
+Chia's Maternity and Gynaecology Specialist ---> Johor Bahru
+Chong Specialist Maternity Sdn. Bhd. ---> Kuala Lumpur
+Coop Medical Centre ---> Kuala Lumpur
+Ganesan Medical Centre Sdn. Bhd. ---> Rawang
+Goh Maternity Centre ---> Batu Pahat
+Helen Ngu Women Hospital ---> Kuching
+Hospital Malaysia ---> Kuala Lumpur
+Hospital Pakar Damansara ---> Petaling Jaya
+Hospital Pakar Johor ---> Johor Bahru
+Hospital Pakar Perdana ---> Kota Bharu
+Hospital Pakar Puteri ---> Johor Bahru
+Hospital Pakar Scudai ---> Johor Bahru
+Hospital Pakar Siow ---> Johor Bahru
+Hospital Putrajaya ---> Kuala Lumpur
+Hospital Waqaf An-Nur Pasir Gudang ---> Pasir Gudang
+Imran Ear, Nose & Throat Specialist Hospital ---> Kuala Lumpur
+Jelatek Medical Services Sdn. Bhd. ---> Kuala Lumpur
+Johor Jaya Maternity Centre Sdn. Bhd. ---> Johor Bahru
+Kamuning Medical Centre (M) Sdn Bhd ---> Klang
+Kota Kinabalu Specialist Centre ---> Kota Kinabalu
+Lam Surgery & Maternity Home Sdn. Bhd. ---> Klang
+Lotuskrish Care Centre Sdn. Bhd. ---> Johor Bahru
+Mary Sim Maternity Home ---> Ipoh
+Maxwell Maternity & Surgical Centre ---> Ipoh
+Mr Mah Siew Lee ---> Georgetown
+Neong Pusat Pakar Perbidanan & Sakit Puan ---> Sungai
+Nilai Cancer Institute ---> Nilai
+Ong Specialist Centre ---> Kuching
+Pakar Wanita & Perbidanan Johor ---> Kluang
+Peral Maternity Hospital ---> Jelutong
+Perling Medical Centre Sdn. Bhd. ---> Johor Bahru
+Selasih Specialist Centre Sdn. Bhd. ---> Kulim
